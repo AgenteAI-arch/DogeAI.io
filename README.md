@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
@@ -26,7 +25,8 @@
 <body>
 
     <header>
-        <img src="https://via.placeholder.com/200?text=Doge+AI" alt="Logo DogeAI - Cachorro Shiba com óculos de IA">
+        <img src="<img width="1110" height="456" alt="image" src="https://github.com/user-attachments/assets/85945399-b619-4eb2-a17e-7df461ab1633" />
+" alt="Logo DogeAI - Cachorro Shiba com óculos de IA">
         <h1>DogeAI ($DOGEAI)</h1>
         <p>A meme coin que une o clássico Doge com o futuro da Inteligência Artificial! 🐕🤖</p>
     </header>
