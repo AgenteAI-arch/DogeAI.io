@@ -26,7 +26,7 @@
 
     <header>
         <img src="<img width="593" height="604" alt="image" src="https://github.com/user-attachments/assets/b4a585c4-1e06-43d6-bccf-f5148655cae5" />
-" alt="image" src="https://github.com/user-attachments/assets/85945399-b619-4eb2-a17e-7df461ab1633" />
+" alt="image" src="https://wallpapers.com/images/hd/astronaut-doge-meme-ysh8psu98frsd3yt.jpg" />
 " alt="Logo DogeAI - Cachorro Shiba com óculos de IA">
         <h1>DogeAI ($DOGEAI)</h1>
         <p>A meme coin que une o clássico Doge com o futuro da Inteligência Artificial! 🐕🤖</p>
