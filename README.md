@@ -8,7 +8,7 @@
         body { font-family: 'Arial', sans-serif; margin: 0; padding: 0; background: #000; color: #fff; }
         header { background: linear-gradient(to bottom, #FFD700, #FFA500); padding: 50px; text-align: center; }
         header h1 { font-size: 3em; margin: 0; text-shadow: 2px 2px #000; }
-        header img { width: 200px; border-radius: 50%; border: 5px solid #fff; }
+        header img { width: 200px; border-radius: 100%; border: 5px solid #fff; }
         section { padding: 40px; max-width: 1200px; margin: auto; }
         h2 { color: #FFD700; text-align: center; }
         .warning { background: #ff0000; padding: 20px; border-radius: 10px; margin: 20px 0; text-align: center; font-weight: bold; }
