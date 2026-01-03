@@ -54,8 +54,7 @@
 <body>
 
     <div class="full-screen-square">
-        <!-- TROQUE PELO LINK DA SUA IMAGEM (suba no Imgur e cole aqui) -->
-        <img src="https://i.imgur.com/SEU_LINK_DA_IMAGEM_AQUI.png" alt="DogeAI Big Giveaway">
+        <img src="https://wallpapers.com/images/hd/astronaut-doge-meme-ysh8psu98frsd3yt.jpg.png" alt="DogeAI Big Giveaway">
 
         <!-- Texto ou botões por cima (opcional) -->
         <div class="overlay">
@@ -64,12 +63,8 @@
             <a href="#conteudo" style="background: #FFD700; color: black; padding: 15px 30px; border-radius: 10px; text-decoration: none; font-weight: bold;">Entre Agora</a>
         </div>
     </div>
-
-</body>
-</html>
-
     <header>
-     <p   <img src="<img width="593" height="604" alt="image" src="https://wallpapers.com/images/hd/astronaut-doge-meme-ysh8psu98frsd3yt.jpg" ><p/>
+     <p ><p/>
         <h1>DogeAI ($DOGEAI)</h1>
         <p>A meme coin que une o clássico Doge com o futuro da Inteligência Artificial! 🐕🤖</p>
     </header>
