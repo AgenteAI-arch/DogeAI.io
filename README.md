@@ -64,7 +64,7 @@
         </div>
     </div>
     <header>
-     <p ><p/>
+     
         <h1>DogeAI ($DOGEAI)</h1>
         <p>A meme coin que une o clássico Doge com o futuro da Inteligência Artificial! 🐕🤖</p>
     </header>
