@@ -76,7 +76,7 @@
     </section>
 
     <footer>
-        <p>DogeAI Site Informativo - Não oficial | 2025 | DYOR & Invista com responsabilidade 🚀🐕</p>
+        <p>DogeAI Site Informativo - Oficial | 2025 | DYOR & Invista com responsabilidade 🚀🐕</p>
     </footer>
 
     <!-- Script para copiar o endereço -->
