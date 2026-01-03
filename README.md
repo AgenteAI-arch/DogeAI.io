@@ -25,7 +25,7 @@
 <body>
 
     <header>
-        <img src="<img width="593" height="604" alt="image" src="https://wallpapers.com/images/hd/astronaut-doge-meme-ysh8psu98frsd3yt.jpg" />
+     <p   <img src="<img width="593" height="604" alt="image" src="https://wallpapers.com/images/hd/astronaut-doge-meme-ysh8psu98frsd3yt.jpg" ><p/>
         <h1>DogeAI ($DOGEAI)</h1>
         <p>A meme coin que une o clássico Doge com o futuro da Inteligência Artificial! 🐕🤖</p>
     </header>
