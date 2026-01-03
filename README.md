@@ -1,28 +1,72 @@
+<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DogeAI ($DOGEAI) - A Meme Coin com Toque de IA</title>
-    <meta name="description" content="DogeAI é uma meme coin inspirada no Dogecoin e no hype de Inteligência Artificial. Descubra mais sobre $DOGEAI!">
+    <title>DogeAI ($DOGEAI)</title>
     <style>
-        body { font-family: 'Arial', sans-serif; margin: 0; padding: 0; background: #000; color: #fff; }
-        header { background: linear-gradient(to bottom, #FFD700, #FFA500); padding: 50px; text-align: center; }
-        header h1 { font-size: 3em; margin: 0; text-shadow: 2px 2px #000; }
-        header img { width: 200px; border-radius: 100%; border: 5px solid #fff; }
-        section { padding: 40px; max-width: 1200px; margin: auto; }
-        h2 { color: #FFD700; text-align: center; }
-        .warning { background: #ff0000; padding: 20px; border-radius: 10px; margin: 20px 0; text-align: center; font-weight: bold; }
-        .contract-box { background: #111; padding: 20px; border-radius: 10px; text-align: center; margin: 30px 0; border: 2px solid #FFD700; }
-        .contract-address { font-family: monospace; font-size: 1.2em; background: #222; padding: 10px; border-radius: 5px; word-break: break-all; }
-        .copy-btn { background: #FFD700; color: #000; border: none; padding: 10px 20px; margin-top: 10px; cursor: pointer; font-weight: bold; border-radius: 5px; }
-        .copy-btn:hover { background: #fff; }
-        .btn { display: inline-block; background: #FFD700; color: #000; padding: 15px 30px; border-radius: 10px; text-decoration: none; font-weight: bold; margin: 10px; }
-        footer { background: #111; padding: 20px; text-align: center; font-size: 0.8em; }
-        ul { list-style: none; padding: 0; }
-        li { margin: 10px 0; }
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            overflow: hidden; /* evita barras de rolagem */
+        }
+
+        /* Container quadrado full screen */
+        .full-screen-square {
+            position: relative;
+            width: 100vw;            /* 100% da largura da tela */
+            height: 100vh;           /* 100% da altura da tela */
+            overflow: hidden;
+        }
+
+        /* Imagem de fundo quadrada centralizada */
+        .full-screen-square img {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            min-width: 100%;
+            min-height: 100%;
+            width: auto;
+            height: auto;
+            object-fit: cover;       /* corta as bordas se necessário */
+            /* object-fit: contain;  /* alternativa: mostra toda a imagem com barras pretas se precisar */
+        }
+
+        /* Conteúdo por cima da imagem (opcional) */
+        .overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            color: white;
+            text-align: center;
+            text-shadow: 2px 2px 10px black;
+        }
     </style>
 </head>
 <body>
+
+    <div class="full-screen-square">
+        <!-- TROQUE PELO LINK DA SUA IMAGEM (suba no Imgur e cole aqui) -->
+        <img src="https://i.imgur.com/SEU_LINK_DA_IMAGEM_AQUI.png" alt="DogeAI Big Giveaway">
+
+        <!-- Texto ou botões por cima (opcional) -->
+        <div class="overlay">
+            <h1 style="font-size: 4em;">DOGE AI</h1>
+            <p style="font-size: 2em;">BIG GIVEAWAY 🚀🐕</p>
+            <a href="#conteudo" style="background: #FFD700; color: black; padding: 15px 30px; border-radius: 10px; text-decoration: none; font-weight: bold;">Entre Agora</a>
+        </div>
+    </div>
+
+</body>
+</html>
 
     <header>
      <p   <img src="<img width="593" height="604" alt="image" src="https://wallpapers.com/images/hd/astronaut-doge-meme-ysh8psu98frsd3yt.jpg" ><p/>
